@@ -1,0 +1,51 @@
+{
+"art": [
+{
+ "tier": "1",
+ "geography": "European",
+ "size": 170,
+  "percentage": "6%",
+ "x": 275,
+ "y": 360
+},
+{
+  "tier": "2",
+  "geography": "American",
+  "size": 160,
+  "percentage": "32%",
+  "x": 710,
+  "y":367
+},
+{
+  "tier": "3",
+  "geography": "Middle Eastern",
+  "size": 70,
+  "percentage": "14%",
+  "x": 625,
+  "y": 625
+},
+{
+  "tier": "4",
+  "geography": "Asian",
+  "size": 70,
+  "percentage": "14%",
+  "x": 375,
+  "y": 625
+},
+{
+  "tier": "5",
+ "geography": "Latin",
+ "size": 30,
+ "x": 500,
+ "y":720
+},
+{
+  "tier": "5",
+ "geography": "American",
+ "size": 30,
+ "percentage": "6%",
+ "x": 500,
+ "y":750
+}
+]
+}
